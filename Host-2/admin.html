@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel</title>
+    <link rel="icon" href="https://veranix-1.github.io/Portfolio/img/Veranix.jpg">
+    <link rel="stylesheet" href="./admin.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+    <header style="display: flex;justify-content: space-evenly;"><a href="../Host-1/index.html"
+            style="color: white;text-decoration: none;">← Back</a>Admin Panel <button
+            style="border: none; background-color: #ffee0200; color: white;" onclick="location.reload()">Save</button>
+    </header>
+    <div class="container">
+        <canvas id="chart" class="fn1" width="200" height="100"
+            style="display: block; box-sizing: border-box; height: 200px; width: 200px;"></canvas>
+        <form id="addProductForm">
+            <label for="name">Name</label>
+            <input type="text" id="name" required>
+            <label for="description">Description</label>
+            <input type="text" id="description" required>
+            <label for="price">Price</label>
+            <input type="text" id="price" required>
+            <label for="stock">Stock</label>
+            <input type="number" id="stock" required>
+            <label for="image">Image URL</label>
+            <input type="url" id="image" placeholder="https://example.com/image.jpg" required>
+            <button type="submit">Add Product</button>
+        </form>
+        <table>
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Image</th>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <th>Price</th>
+                    <th>Stock</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody id="product-table-body">
+            </tbody>
+        </table>
+        <h1 style="text-align: center;padding-top: 30px;color: #0d6969;">Progres</h1>
+        <canvas id="myChart2" class="fn1" width="200" height="100"
+            style="display: block; box-sizing: border-box; height: 100px; width: 200px;padding: 50px 0;"></canvas>
+    </div>
+    <script src="./admin.js"></script>
+</body>
+
+</html>

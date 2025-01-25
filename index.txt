@@ -1,0 +1,281 @@
+[
+  {
+    "name": "Veranix",
+    "description": "Veranix Projects",
+    "price": 999.99,
+    "stock": 11,
+    "id": "1",
+    "image": "https://veranix-1.github.io/Portfolio/img/Veranix.jpg"
+  },
+  {
+    "name": "Mars",
+    "description": "Planetarium in the world",
+    "price": 999.99,
+    "stock": 6,
+    "id": "2",
+    "image": "https://get-edu.kz/wp-content/uploads/2020/04/helpbox-contact.jpg"
+  },
+  {
+    "name": "Lorem",
+    "description": "Lorem ipsum dolor sit amet elit.",
+    "price": 0.99,
+    "stock": 8,
+    "id": "3",
+    "image": "https://static.vecteezy.com/vite/assets/photo-masthead-375-BoK_p8LG.webp"
+  },
+  {
+    "name": "Chilonzor",
+    "description": "210K aholi va tahminan narhi 21M$",
+    "price": 2000.99,
+    "stock": 4,
+    "id": "4",
+    "image": "https://www.gazeta.uz/media/img/2023/11/WaRP7N17005745757927_b.jpg"
+  },
+  {
+    "name": "Sergeli",
+    "description": "167.6 M aholisi 1.542 M$",
+    "price": 154000,
+    "stock": 3,
+    "id": "5",
+    "image": "https://mytashkent.uz/wp-content/uploads/2022/07/xxx262_080722-052146-480x600.jpg"
+  },
+  {
+    "name": "Ko'kcha",
+    "description": "Ko'kcha Toshkent ortasida joylashgan.",
+    "price": 249000,
+    "stock": 4,
+    "id": "6",
+    "image": "https://uzbekistan.travel/storage/app/media/uploaded-files/kukcha.jpg"
+  },
+  {
+    "name": "Chilonzor-8",
+    "description": "Mars IT School",
+    "price": 149000,
+    "stock": 3,
+    "id": "7",
+    "image": "https://static.tildacdn.com/tild3462-3066-4262-b939-376664363432/Artboard_8_4.png"
+  },
+  {
+    "name": "Home 7",
+    "description": "Amerika New York streat",
+    "price": 1999000,
+    "stock": 4,
+    "id": "8",
+    "image": "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?cs=srgb&dl=pexels-binyaminmellish-186077.jpg&fm=jpg"
+  },
+  {
+    "name": "Venera",
+    "description": "Planetarium in the world",
+    "price": 999.9,
+    "stock": 6,
+    "id": "9",
+    "image": "https://get-edu.kz/wp-content/uploads/2020/04/helpbox-contact.jpg"
+  },
+  {
+    "name": "Phone",
+    "description": "Samsung S25 Ultra",
+    "price": 2500.99,
+    "stock": 19,
+    "id": "10",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/66e046053fd9fba4682b7301/Samsung-s-Galaxy-S25-Ultra-is-tipped-to-receive-a-modest-camera-upgrade-over-the/960x0.jpg?format=jpg&width=960"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[
+  {
+    "name": "Veranix",
+    "description": "Veranix Projects",
+    "price": 999.99,
+    "stock": 8,
+    "id": "1",
+    "image": "https://veranix-1.github.io/Portfolio/img/Veranix.jpg"
+  },
+  {
+    "name": "Mars",
+    "description": "Planetarium in the world",
+    "price": 999.99,
+    "stock": 6,
+    "id": "2",
+    "image": "https://get-edu.kz/wp-content/uploads/2020/04/helpbox-contact.jpg"
+  },
+  {
+    "name": "Lorem",
+    "description": "Lorem ipsum dolor sit amet elit.",
+    "price": 0.99,
+    "stock": 8,
+    "id": "3",
+    "image": "https://static.vecteezy.com/vite/assets/photo-masthead-375-BoK_p8LG.webp"
+  },
+  {
+    "name": "Chilonzor",
+    "description": "210K aholi va tahminan narhi 21M$",
+    "price": 2000.99,
+    "stock": 4,
+    "id": "4",
+    "image": "https://www.gazeta.uz/media/img/2023/11/WaRP7N17005745757927_b.jpg"
+  },
+  {
+    "name": "Sergeli",
+    "description": "167.6 M aholisi 1.542 M$",
+    "price": 154000,
+    "stock": 2,
+    "id": "5",
+    "image": "https://mytashkent.uz/wp-content/uploads/2022/07/xxx262_080722-052146-480x600.jpg"
+  },
+  {
+    "name": "Ko'kcha",
+    "description": "Ko'kcha Toshkent ortasida joylashgan.",
+    "price": 249000,
+    "stock": 4,
+    "id": "6",
+    "image": "https://uzbekistan.travel/storage/app/media/uploaded-files/kukcha.jpg"
+  },
+  {
+    "name": "Chilonzor-8",
+    "description": "Mars IT School",
+    "price": 149000,
+    "stock": 2,
+    "id": "7",
+    "image": "https://static.tildacdn.com/tild3462-3066-4262-b939-376664363432/Artboard_8_4.png"
+  },
+  {
+    "name": "Home 7",
+    "description": "Amerika New York streat",
+    "price": 1999000,
+    "stock": 2,
+    "id": "8",
+    "image": "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?cs=srgb&dl=pexels-binyaminmellish-186077.jpg&fm=jpg"
+  },
+  {
+    "name": "Venera",
+    "description": "Planetarium in the world",
+    "price": 999.9,
+    "stock": 6,
+    "id": "9",
+    "image": "https://get-edu.kz/wp-content/uploads/2020/04/helpbox-contact.jpg"
+  },
+  {
+    "name": "Phone",
+    "description": "Samsung S25 Ultra",
+    "price": 2500.99,
+    "stock": 18,
+    "id": "10",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/66e046053fd9fba4682b7301/Samsung-s-Galaxy-S25-Ultra-is-tipped-to-receive-a-modest-camera-upgrade-over-the/960x0.jpg?format=jpg&width=960"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[
+  {
+    "name": "Veranix",
+    "description": "Veranix Projects",
+    "price": 999.99,
+    "stock": 8,
+    "id": "1",
+    "image": "https://veranix-1.github.io/Portfolio/img/Veranix.jpg"
+  },
+  {
+    "name": "Mars",
+    "description": "Planetarium in the world",
+    "price": 999.99,
+    "stock": 6,
+    "id": "2",
+    "image": "https://get-edu.kz/wp-content/uploads/2020/04/helpbox-contact.jpg"
+  },
+  {
+    "name": "Lorem",
+    "description": "Lorem ipsum dolor sit amet elit.",
+    "price": 0.99,
+    "stock": 8,
+    "id": "3",
+    "image": "https://static.vecteezy.com/vite/assets/photo-masthead-375-BoK_p8LG.webp"
+  },
+  {
+    "name": "Chilonzor",
+    "description": "210K aholi va tahminan narhi 21M$",
+    "price": 2000.99,
+    "stock": 4,
+    "id": "4",
+    "image": "https://www.gazeta.uz/media/img/2023/11/WaRP7N17005745757927_b.jpg"
+  },
+  {
+    "name": "Sergeli",
+    "description": "167.6 M aholisi 1.542 M$",
+    "price": 154000,
+    "stock": 2,
+    "id": "5",
+    "image": "https://mytashkent.uz/wp-content/uploads/2022/07/xxx262_080722-052146-480x600.jpg"
+  },
+  {
+    "name": "Ko'kcha",
+    "description": "Ko'kcha Toshkent ortasida joylashgan.",
+    "price": 249000,
+    "stock": 4,
+    "id": "6",
+    "image": "https://uzbekistan.travel/storage/app/media/uploaded-files/kukcha.jpg"
+  },
+  {
+    "name": "Chilonzor-8",
+    "description": "Mars IT School",
+    "price": 149000,
+    "stock": 2,
+    "id": "7",
+    "image": "https://static.tildacdn.com/tild3462-3066-4262-b939-376664363432/Artboard_8_4.png"
+  },
+  {
+    "name": "Home 7",
+    "description": "Amerika New York streat",
+    "price": 1999000,
+    "stock": 2,
+    "id": "8",
+    "image": "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?cs=srgb&dl=pexels-binyaminmellish-186077.jpg&fm=jpg"
+  },
+  {
+    "name": "Venera",
+    "description": "Planetarium in the world",
+    "price": 999.9,
+    "stock": 6,
+    "id": "9",
+    "image": "https://get-edu.kz/wp-content/uploads/2020/04/helpbox-contact.jpg"
+  },
+  {
+    "name": "Phone",
+    "description": "Samsung S25 Ultra",
+    "price": 2500.99,
+    "stock": 18,
+    "id": "10",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/66e046053fd9fba4682b7301/Samsung-s-Galaxy-S25-Ultra-is-tipped-to-receive-a-modest-camera-upgrade-over-the/960x0.jpg?format=jpg&width=960"
+  }
+]
